@@ -86,17 +86,7 @@ Key Features:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- BUILT WITH -->
-### Built With Flutter
 
-Flutter is an open source framework developed and supported by Google. App Developers use Flutter to build mobile apps for multiple platforms (iOS/android) with a single codebase. <br><br>
-<img src="https://storage.googleapis.com/cms-storage-bucket/d113e56856107a174445.svg" style="height:50px; width:150px;">
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
@@ -108,6 +98,17 @@ Make sure you have `git` installed, type `git --version` in your cmd. (git offic
 ```
 git --version
 ```
+<!-- BUILT WITH -->
+### Built With Flutter
+
+Flutter is an open source framework developed and supported by Google. App Developers use Flutter to build mobile apps for multiple platforms (iOS/android) with a single codebase. <br><br>
+<img src="https://storage.googleapis.com/cms-storage-bucket/d113e56856107a174445.svg" style="height:50px; width:150px;">
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- GETTING STARTED -->
 
 ### Installation
 
